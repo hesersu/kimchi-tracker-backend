@@ -2,38 +2,93 @@
 	"users": [
 		{
 			"id": 1,
-			"firstname": "Josh",
-			"dog": "Ragnar",
-			"hobbies": ["Surf", "Being bad at videogames"]
-		},
-		{
-			"id": 2,
-			"firstname": "Eric",
-			"cat": false,
-			"hobbies": ["Lord of the Rings", "DnD"]
+			"firstname": "John",
+			"lastname": "Doe",
+			"imageUrl": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"batch": [
+				{
+					"id":1,
+					"name": "name",
+					"imageUrl": "...",
+					"date": "dd-mm-yyyy",
+					"recipe": {
+						"cabbage": 1,
+						"salt": 0.026,
+						"water": 0.176,
+						"riceflour": 0.011,
+						"sugar": 0.011,
+						"raddish": 0.176,
+						"carrot":0.088,
+						"greenOnion":2.94,
+						"garlic":8.8,
+						"ginger": 0.004,
+						"onion": 0.36,
+						"fishSauce": 0.044,
+						"saltedShrimp": 0.022,
+						"hotPepperFlakes": 0.1,
+						"garlicModifier": 1,
+						"pepperModifier": 1
+					},
+					"notes": [
+						{
+							"id":1,
+							"date": "dd-mm-yyyy",
+							"content": " ...."
+						}
+					] 
+				}
+			]
 		}
 	],
-	"playSessions": [
+	"coefficient": [
 		{
-			"id": 1,
-			"userId": 1,
-			"game": "LoL",
-			"playTime": 0,
-			"description": "I need to try out this one so that I can lose my life and my soul"
+			"id":1,
+			"type": "default",
+			"name": "Maangchi Traditional Napa Cabbage Kimchi",
+			"values": {
+				"cabbage": 1,
+				"salt": 0.026,
+				"water": 0.176,
+				"riceflour": 0.011,
+				"sugar": 0.011,
+				"raddish": 0.176,
+				"carrot":0.088,
+				"greenOnion":2.94,
+				"garlic":8.8,
+				"ginger": 0.004,
+				"onion": 0.36,
+				"fishSauce": 0.044,
+				"saltedShrimp": 0.022,
+				"hotPepperFlakes": 0.1
+			}
 		},
 		{
-			"id": 2,
-			"userId": 1,
-			"game": "OW",
-			"playTime": 100,
-			"description": "Finally I had a win in the end"
-		},
-		{
-			"id": 3,
-			"userId": 2,
-			"game": "DnD",
-			"playTime": 600,
-			"description": "I finished my turn in Civ"
+			"id":2,
+			"type": "default",
+			"name": "Paik Jong-won Traditional Napa Cabbage Kimchi",
+			"values": {
+				"cabbage": 1,
+				"salt": 0.026,
+				"water": 0.125,
+				"riceflour": 0.008,
+				"sugar": 0.06,
+				"raddish": 0.125,
+				"carrot":0.088,
+				"greenOnion": 3.8,
+				"garlic": 8,
+				"ginger": 0.002,
+				"fishSauce": 0.04,
+				"saltedShrimp": 0.029,
+				"hotPepperFlakes": 0.062,
+				"oyster": 0.08,
+				"beefStock": 0.002,
+				"msg": 0.002,
+				"redMustard": 0.04,
+				"greenMustard": 0.06,
+				"raddishLeaf": 0.5,
+				"waterParsley": 0.016
+			}
 		}
 	]
+	
 }
