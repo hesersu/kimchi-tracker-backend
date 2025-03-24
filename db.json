@@ -1,94 +1,195 @@
 {
-	"users": [
-		{
-			"id": 1,
-			"firstname": "John",
-			"lastname": "Doe",
-			"imageUrl": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			"batch": [
-				{
-					"id":1,
-					"name": "name",
-					"imageUrl": "...",
-					"date": "dd-mm-yyyy",
-					"recipe": {
-						"cabbage": 1,
-						"salt": 0.026,
-						"water": 0.176,
-						"riceflour": 0.011,
-						"sugar": 0.011,
-						"raddish": 0.176,
-						"carrot":0.088,
-						"greenOnion":2.94,
-						"garlic":8.8,
-						"ginger": 0.004,
-						"onion": 0.36,
-						"fishSauce": 0.044,
-						"saltedShrimp": 0.022,
-						"hotPepperFlakes": 0.1,
-						"garlicModifier": 1,
-						"pepperModifier": 1
-					},
-					"notes": [
-						{
-							"id":1,
-							"date": "dd-mm-yyyy",
-							"content": " ...."
-						}
-					] 
-				}
-			]
-		}
-	],
-	"coefficient": [
-		{
-			"id":1,
-			"type": "default",
-			"name": "Maangchi Traditional Napa Cabbage Kimchi",
-			"values": {
-				"cabbage": 1,
-				"salt": 0.026,
-				"water": 0.176,
-				"riceflour": 0.011,
-				"sugar": 0.011,
-				"raddish": 0.176,
-				"carrot":0.088,
-				"greenOnion":2.94,
-				"garlic":8.8,
-				"ginger": 0.004,
-				"onion": 0.36,
-				"fishSauce": 0.044,
-				"saltedShrimp": 0.022,
-				"hotPepperFlakes": 0.1
-			}
-		},
-		{
-			"id":2,
-			"type": "default",
-			"name": "Paik Jong-won Traditional Napa Cabbage Kimchi",
-			"values": {
-				"cabbage": 1,
-				"salt": 0.026,
-				"water": 0.125,
-				"riceflour": 0.008,
-				"sugar": 0.06,
-				"raddish": 0.125,
-				"carrot":0.088,
-				"greenOnion": 3.8,
-				"garlic": 8,
-				"ginger": 0.002,
-				"fishSauce": 0.04,
-				"saltedShrimp": 0.029,
-				"hotPepperFlakes": 0.062,
-				"oyster": 0.08,
-				"beefStock": 0.002,
-				"msg": 0.002,
-				"redMustard": 0.04,
-				"greenMustard": 0.06,
-				"raddishLeaf": 0.5,
-				"waterParsley": 0.016
-			}
-		}
-	]
-	
+  "users": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe",
+      "imageUrl": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "batch": [
+        {
+          "id": 1,
+          "name": "name",
+          "imageUrl": "...",
+          "date": "dd-mm-yyyy",
+          "batches": {
+            "cabbage": 1,
+            "salt": 0.026,
+            "water": 0.176,
+            "riceflour": 0.011,
+            "sugar": 0.011,
+            "raddish": 0.176,
+            "carrot": 0.088,
+            "greenOnion": 2.94,
+            "garlic": 8.8,
+            "ginger": 0.004,
+            "onion": 0.36,
+            "fishSauce": 0.044,
+            "saltedShrimp": 0.022,
+            "hotPepperFlakes": 0.1,
+            "garlicModifier": 1,
+            "pepperModifier": 1
+          },
+          "notes": [
+            {
+              "id": 1,
+              "date": "dd-mm-yyyy",
+              "content": " ...."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "coefficient": [
+    {
+      "id": 1,
+      "type": "default",
+      "name": "Maangchi Traditional Napa Cabbage Kimchi",
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": 1
+        },
+        {
+          "name": "salt",
+          "qty": 0.026
+        },
+        {
+          "name": "water",
+          "qty": 0.176
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.011
+        },
+        {
+          "name": "sugar",
+          "qty": 0.011
+        },
+        {
+          "name": "raddish",
+          "qty": 0.176
+        },
+        {
+          "name": "carrot",
+          "qty": 0.088
+        },
+        {
+          "name": "greenOnion",
+          "qty": 2.94
+        },
+        {
+          "name": "garlic",
+          "qty": 8.8
+        },
+        {
+          "name": "ginger",
+          "qty": 0.004
+        },
+        {
+          "name": "onion",
+          "qty": 0.36
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.044
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.022
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "default",
+      "name": "Paik Jong-won Traditional Napa Cabbage Kimchi",
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": 1
+        },
+        {
+          "name": "salt",
+          "qty": 0.026
+        },
+        {
+          "name": "water",
+          "qty": 0.125
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.008
+        },
+        {
+          "name": "sugar",
+          "qty": 0.06
+        },
+        {
+          "name": "raddish",
+          "qty": 0.125
+        },
+        {
+          "name": "carrot",
+          "qty": 0.088
+        },
+        {
+          "name": "greenOnion",
+          "qty": 3.8
+        },
+        {
+          "name": "garlic",
+          "qty": 8
+        },
+        {
+          "name": "ginger",
+          "qty": 0.002
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.04
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.029
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.062
+        },
+        {
+          "name": "oyster",
+          "qty": 0.08
+        },
+        {
+          "name": "beefStock",
+          "qty": 0.002
+        },
+        {
+          "name": "msg",
+          "qty": 0.002
+        },
+        {
+          "name": "redMustard",
+          "qty": 0.04
+        },
+        {
+          "name": "greenMustard",
+          "qty": 0.06
+        },
+        {
+          "name": "raddishLeaf",
+          "qty": 0.5
+        },
+        {
+          "name": "waterParsley",
+          "qty": 0.016
+        }
+      ]
+    }
+  ]
 }
