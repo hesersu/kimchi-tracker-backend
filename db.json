@@ -16,59 +16,73 @@
       "ingredients": [
         {
           "name": "cabbage",
-          "qty": 1
+          "qty": 1,
+          "unit": "kg"
         },
         {
           "name": "salt",
-          "qty": 0.026
+          "qty": 0.026,
+          "unit": "kg"
         },
         {
           "name": "water",
-          "qty": 0.176
+          "qty": 0.176,
+          "unit": "L"
         },
         {
           "name": "riceflour",
-          "qty": 0.011
+          "qty": 0.011,
+          "unit": "kg"
         },
         {
           "name": "sugar",
-          "qty": 0.011
+          "qty": 0.011,
+          "unit": "kg"
         },
         {
           "name": "raddish",
-          "qty": 0.176
+          "qty": 0.176,
+          "unit": "kg"
         },
         {
           "name": "carrot",
-          "qty": 0.088
+          "qty": 0.088,
+          "unit": "kg"
         },
         {
           "name": "greenOnion",
-          "qty": 2.94
+          "qty": 2.94,
+          "unit": "sticks"
         },
         {
           "name": "garlic",
-          "qty": 8.8
+          "qty": 8.8,
+          "unit": "cloves"
         },
         {
           "name": "ginger",
-          "qty": 0.004
+          "qty": 0.004,
+          "unit": "kg"
         },
         {
           "name": "onion",
-          "qty": 0.36
+          "qty": 0.36,
+          "unit": "piece"
         },
         {
           "name": "fishSauce",
-          "qty": 0.044
+          "qty": 0.044,
+          "unit": "L"
         },
         {
           "name": "saltedShrimp",
-          "qty": 0.022
+          "qty": 0.022,
+          "unit": "kg"
         },
         {
           "name": "hotPepperFlakes",
-          "qty": 0.1
+          "qty": 0.1,
+          "unit": "kg"
         }
       ]
     },
@@ -78,83 +92,189 @@
       "ingredients": [
         {
           "name": "cabbage",
-          "qty": 1
+          "qty": 1,
+          "unit": "kg"
         },
         {
           "name": "salt",
-          "qty": 0.026
+          "qty": 0.026,
+          "unit": "kg"
         },
         {
           "name": "water",
-          "qty": 0.125
+          "qty": 0.125,
+          "unit": "L"
         },
         {
           "name": "riceflour",
-          "qty": 0.008
+          "qty": 0.008,
+          "unit": "kg"
         },
         {
           "name": "sugar",
-          "qty": 0.06
+          "qty": 0.06,
+          "unit": "kg"
         },
         {
           "name": "raddish",
-          "qty": 0.125
+          "qty": 0.125,
+          "unit": "kg"
         },
         {
           "name": "carrot",
-          "qty": 0.088
+          "qty": 0.088,
+          "unit": "kg"
         },
         {
           "name": "greenOnion",
-          "qty": 3.8
+          "qty": 3.8,
+          "unit": "sticks"
         },
         {
           "name": "garlic",
-          "qty": 8
+          "qty": 8,
+          "unit": "gloves"
         },
         {
           "name": "ginger",
-          "qty": 0.002
+          "qty": 0.002,
+          "unit": "kg"
         },
         {
           "name": "fishSauce",
-          "qty": 0.04
+          "qty": 0.04,
+          "unit": "L"
         },
         {
           "name": "saltedShrimp",
-          "qty": 0.029
+          "qty": 0.029,
+          "unit": "kg"
         },
         {
           "name": "hotPepperFlakes",
-          "qty": 0.062
+          "qty": 0.062,
+          "unit": "kg"
         },
         {
           "name": "oyster",
-          "qty": 0.08
+          "qty": 0.08,
+          "unit": "kg"
         },
         {
           "name": "beefStock",
-          "qty": 0.002
+          "qty": 0.002,
+          "unit": "kg"
         },
         {
           "name": "msg",
-          "qty": 0.002
+          "qty": 0.002,
+          "unit": "kg"
         },
         {
           "name": "redMustard",
-          "qty": 0.04
+          "qty": 0.04,
+          "unit": "kg"
         },
         {
           "name": "greenMustard",
-          "qty": 0.06
+          "qty": 0.06,
+          "unit": "kg"
         },
         {
           "name": "raddishLeaf",
-          "qty": 0.5
+          "qty": 0.5,
+          "unit": "piece"
         },
         {
           "name": "waterParsley",
-          "qty": 0.016
+          "qty": 0.016,
+          "unit": "kg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Jongwon Baek Cabbage Kimchi",
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "salt",
+          "qty": 0.026,
+          "unit": "kg"
+        },
+        {
+          "name": "water",
+          "qty": 0.176,
+          "unit": "L"
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.011,
+          "unit": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.011,
+          "unit": "kg"
+        },
+        {
+          "name": "raddish",
+          "qty": 0.176,
+          "unit": "kg"
+        },
+        {
+          "name": "carrot",
+          "qty": 0.088,
+          "unit": "kg"
+        },
+        {
+          "name": "greenOnion",
+          "qty": 2.94,
+          "unit": "sticks"
+        },
+        {
+          "name": "garlic",
+          "qty": 8.8,
+          "unit": "gloves"
+        },
+        {
+          "name": "ginger",
+          "qty": 0.004,
+          "unit": "kg"
+        },
+        {
+          "name": "onion",
+          "qty": 0.36,
+          "unit": "piece"
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.044,
+          "unit": "L"
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.022,
+          "unit": "kg"
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.1,
+          "unit": "kg"
+        },
+        {
+          "name": "redMustard",
+          "qty": 0.7,
+          "unit": "kg"
+        },
+        {
+          "name": "greenMustard",
+          "qty": 0.5,
+          "unit": "kg"
         }
       ]
     }
@@ -209,6 +329,168 @@
         "garlicModifier": 1,
         "pepperModifier": 1
       }
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": "3"
+        },
+        {
+          "name": "salt",
+          "qty": 0.078
+        },
+        {
+          "name": "water",
+          "qty": 0.528
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.033
+        },
+        {
+          "name": "sugar",
+          "qty": 0.033
+        },
+        {
+          "name": "raddish",
+          "qty": 0.528
+        },
+        {
+          "name": "carrot",
+          "qty": 0.264
+        },
+        {
+          "name": "greenOnion",
+          "qty": 8.82
+        },
+        {
+          "name": "garlic",
+          "qty": 26.400000000000002
+        },
+        {
+          "name": "ginger",
+          "qty": 0.012
+        },
+        {
+          "name": "onion",
+          "qty": 1.08
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.132
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.066
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.30000000000000004
+        },
+        {
+          "name": "redMustard",
+          "qty": 2.0999999999999996
+        },
+        {
+          "name": "greenMustard",
+          "qty": 1.5
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": "3",
+          "unit": "kg"
+        },
+        {
+          "name": "salt",
+          "qty": 0.078,
+          "unit": "kg"
+        },
+        {
+          "name": "water",
+          "qty": 0.528,
+          "unit": "L"
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.033,
+          "unit": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.033,
+          "unit": "kg"
+        },
+        {
+          "name": "raddish",
+          "qty": 0.528,
+          "unit": "kg"
+        },
+        {
+          "name": "carrot",
+          "qty": 0.264,
+          "unit": "kg"
+        },
+        {
+          "name": "greenOnion",
+          "qty": 8.82,
+          "unit": "sticks"
+        },
+        {
+          "name": "garlic",
+          "qty": 26.400000000000002,
+          "unit": "gloves"
+        },
+        {
+          "name": "ginger",
+          "qty": 0.012,
+          "unit": "kg"
+        },
+        {
+          "name": "onion",
+          "qty": 1.08,
+          "unit": "piece"
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.132,
+          "unit": "L"
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.066,
+          "unit": "kg"
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.30000000000000004,
+          "unit": "kg"
+        },
+        {
+          "name": "redMustard",
+          "qty": 2.0999999999999996,
+          "unit": "kg"
+        },
+        {
+          "name": "greenMustard",
+          "qty": 1.5,
+          "unit": "kg"
+        }
+      ],
+      "id": 4
     }
   ],
   "notes": [
