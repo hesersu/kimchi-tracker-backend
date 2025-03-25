@@ -13,6 +13,7 @@
     {
       "id": 1,
       "name": "Maangchi Traditional Napa Cabbage Kimchi",
+      "author": "Maangchi",
       "ingredients": [
         {
           "name": "cabbage",
@@ -84,11 +85,27 @@
           "qty": 0.1,
           "unit": "kg"
         }
+      ],
+      "directions": [
+        "If the cabbage cores stick out too much, trim them off with your knife over your cutting board.",
+        "To split a cabbage in half without shredding the densely packed leaves inside, first cut a short slit in the base of the cabbage, enough to get a grip on either half, and then gently pull the halves apart so the cabbage splits open.",
+        "Cut a slit through the core of each half, 2 inches above the stem. You want the cabbage leaves to be loose but still attached to the core.",
+        "Dunk the halves in a large basin of water to get them wet. Sprinkle salt between the leaves by lifting up every leaf and getting salt in there. Use more salt closer to the stems, where the leaves are thicker.",
+        "Let the cabbages rest for 2 hours. Turn over every 30 minutes, so they get well salted. From time to time you can ladle some of the salty water from the bottom of the basin over top of the cabbages if you want to.",
+        "Combine the water and the sweet rice flour in a small pot. Mix well with a wooden spoon and let it cook over medium heat for about 10 minutes until it starts to bubble. Add the sugar and cook 1 more minute, stirring. Remove from the heat and let it cool off completely.",
+        "Pour cooled porridge into a large mixing bowl. Add garlic, ginger, onion, fish sauce, fermented salted shrimp, and hot pepper flakes. Mix well with the wooden spoon until the mixture turns into a thin paste.",
+        "Add the radish, carrot, and green onion, plus the Asian chives (or more green onions) and the water dropwort if you’re using them. Mix well.",
+        "After 2 hours, wash the cabbage halves a few times under cold running water. Giving them a good washing, to remove the salt and any dirt. As you wash, split the halves into quarters along the slits you cut into earlier. Cut off the cores, give them a final rinse, and put them in a strainer over a basin so they can drain well.",
+        "In a large bowl, spread some kimchi paste on each cabbage leaf. When every leaf in a quarter is covered with paste, wrap it around itself into a small packet, and put into your jar, plastic container, or onggi.",
+        "Eat right away, or let it sit for a few days to ferment.",
+        "The kimchi will start fermenting a day or two at room temperature, depending on the temperature and humidity of your room. The warmer and more humid it is, the faster the kimchi will ferment. Once it starts to ferment it will smell and taste sour, and pressing on the top of the kimchi with a spoon will release bubbles from beneath. If you’re using a sealed jar with a lid, be sure to open it once a while, let it breathe, and press down on the top of the kimchi.",
+        "Once it starts to fermented, store in the refrigerator to use as needed. This slows down the fermentation process, which will make the kimchi more and more sour as time goes on."
       ]
     },
     {
       "id": 2,
       "name": "Paik Jong-won Traditional Napa Cabbage Kimchi",
+      "author": "Unknown",
       "ingredients": [
         {
           "name": "cabbage",
@@ -195,6 +212,7 @@
     {
       "id": 3,
       "name": "Jongwon Baek Cabbage Kimchi",
+      "author": "Jongwon Baek",
       "ingredients": [
         {
           "name": "cabbage",
@@ -276,6 +294,20 @@
           "qty": 0.5,
           "unit": "kg"
         }
+      ],
+      "directions": [
+        "Cut a cabbage in half and cut the wick like a fruit stalk. While the cabbages are not washed, stack the cabbage leaves one at a time and slice them obliquely. I'm going to pickle the cabbage without washing it and rinse it. Add a cup and a half of thick salt and add a little water. Then, marinate between 40 minutes and 1 hour. Mix in between.",
+        "I'm going to make the seasoning while I pickle the cabbages, and put 1 1/2 cups of red pepper powder in a large bowl.",
+        "Add 1 cup sugar, 1 cup minced garlic, and a little ginger and set aside for a while. Place 1/2 onion and 1/2 pear in blender.",
+        "Add 1/2 cup salted shrimp and 1/2 cup salted fish and grind.",
+        "Mix the seasoning ingredients prepared earlier with the ingredients you just ground in the blender.",
+        "The recipe for Jongwon Baek cabbage geotjeori tells me to soak red pepper powder in water, but I grind pears and onions and add it, so it's called red pepper powder. You can ripen the seasoning while the cabbage is pickled.",
+        "Chop 1/2 onion. Cut the green onions and chives and prepare them.",
+        "While preparing the seasoning and vegetables, all the cabbages were pickled. When you bend it with your hands, if it's bent well, it's well salted. Now rinse the cabbages in water and drain. The remaining 1/2 pears will be discolored if you cut them in advance, so cut them just before mixing the seasoning.",
+        "Mix the onion and carrot first with the pickled cabbage and add the sauce about half way. After mixing the pear, chives, and green onions, I will put them in at the end.",
+        "While mixing the seasoning, I tasted it, but it was bland, so I added more salted shrimp. You can add the seasoning later as you like, so don't worry.",
+        "When the seasoning is done, add chives, pears, and green onions.",
+        "Mix it well. Doesn't it look delicious?"
       ]
     }
   ],
@@ -285,6 +317,7 @@
       "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/whole-cabbage-kimchi-590x466.jpg",
       "createdAt": "",
       "userId": 1,
+      "recipeBasedOnId": 3,
       "ingredients": [
         {
           "name": "cabbage",
@@ -356,6 +389,445 @@
     {
       "name": "Test Batch 4",
       "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/whole-cabbage-kimchi-590x466.jpg",
+      "createdAt": "",
+      "userId": 1,
+      "recipeBasedOnId": 3,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": "3",
+          "unit": "kg"
+        },
+        {
+          "name": "salt",
+          "qty": 0.078,
+          "unit": "kg"
+        },
+        {
+          "name": "water",
+          "qty": 0.528,
+          "unit": "L"
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.033,
+          "unit": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.033,
+          "unit": "kg"
+        },
+        {
+          "name": "raddish",
+          "qty": 0.528,
+          "unit": "kg"
+        },
+        {
+          "name": "carrot",
+          "qty": 0.264,
+          "unit": "kg"
+        },
+        {
+          "name": "greenOnion",
+          "qty": 8.82,
+          "unit": "sticks"
+        },
+        {
+          "name": "garlic",
+          "qty": 26.400000000000002,
+          "unit": "gloves"
+        },
+        {
+          "name": "ginger",
+          "qty": 0.012,
+          "unit": "kg"
+        },
+        {
+          "name": "onion",
+          "qty": 1.08,
+          "unit": "piece"
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.132,
+          "unit": "L"
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.066,
+          "unit": "kg"
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.30000000000000004,
+          "unit": "kg"
+        },
+        {
+          "name": "redMustard",
+          "qty": 2.0999999999999996,
+          "unit": "kg"
+        },
+        {
+          "name": "greenMustard",
+          "qty": 1.5,
+          "unit": "kg"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "userId": 1,
+      "recipeBasedOnId": 1,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": "4",
+          "unit": "kg"
+        },
+        {
+          "name": "salt",
+          "qty": 0.104,
+          "unit": "kg"
+        },
+        {
+          "name": "water",
+          "qty": 0.704,
+          "unit": "L"
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.044,
+          "unit": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.044,
+          "unit": "kg"
+        },
+        {
+          "name": "raddish",
+          "qty": 0.704,
+          "unit": "kg"
+        },
+        {
+          "name": "carrot",
+          "qty": 0.352,
+          "unit": "kg"
+        },
+        {
+          "name": "greenOnion",
+          "qty": 11.76,
+          "unit": "sticks"
+        },
+        {
+          "name": "garlic",
+          "qty": 35.2,
+          "unit": "cloves"
+        },
+        {
+          "name": "ginger",
+          "qty": 0.016,
+          "unit": "kg"
+        },
+        {
+          "name": "onion",
+          "qty": 1.44,
+          "unit": "piece"
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.176,
+          "unit": "L"
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.088,
+          "unit": "kg"
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.4,
+          "unit": "kg"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "userId": 1,
+      "recipeBasedOnId": 3,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "salt",
+          "qty": 0.026,
+          "unit": "kg"
+        },
+        {
+          "name": "water",
+          "qty": 0.176,
+          "unit": "L"
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.011,
+          "unit": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.011,
+          "unit": "kg"
+        },
+        {
+          "name": "raddish",
+          "qty": 0.176,
+          "unit": "kg"
+        },
+        {
+          "name": "carrot",
+          "qty": 0.088,
+          "unit": "kg"
+        },
+        {
+          "name": "greenOnion",
+          "qty": 2.94,
+          "unit": "sticks"
+        },
+        {
+          "name": "garlic",
+          "qty": 8.8,
+          "unit": "gloves"
+        },
+        {
+          "name": "ginger",
+          "qty": 0.004,
+          "unit": "kg"
+        },
+        {
+          "name": "onion",
+          "qty": 0.36,
+          "unit": "piece"
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.044,
+          "unit": "L"
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.022,
+          "unit": "kg"
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.1,
+          "unit": "kg"
+        },
+        {
+          "name": "redMustard",
+          "qty": 0.7,
+          "unit": "kg"
+        },
+        {
+          "name": "greenMustard",
+          "qty": 0.5,
+          "unit": "kg"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "userId": 1,
+      "recipeBasedOnId": 3,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": "1.75",
+          "unit": "kg"
+        },
+        {
+          "name": "salt",
+          "qty": 0.0455,
+          "unit": "kg"
+        },
+        {
+          "name": "water",
+          "qty": 0.308,
+          "unit": "L"
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.01925,
+          "unit": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.01925,
+          "unit": "kg"
+        },
+        {
+          "name": "raddish",
+          "qty": 0.308,
+          "unit": "kg"
+        },
+        {
+          "name": "carrot",
+          "qty": 0.154,
+          "unit": "kg"
+        },
+        {
+          "name": "greenOnion",
+          "qty": 5.145,
+          "unit": "sticks"
+        },
+        {
+          "name": "garlic",
+          "qty": 15.400000000000002,
+          "unit": "gloves"
+        },
+        {
+          "name": "ginger",
+          "qty": 0.007,
+          "unit": "kg"
+        },
+        {
+          "name": "onion",
+          "qty": 0.63,
+          "unit": "piece"
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.077,
+          "unit": "L"
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.0385,
+          "unit": "kg"
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.17500000000000002,
+          "unit": "kg"
+        },
+        {
+          "name": "redMustard",
+          "qty": 1.2249999999999999,
+          "unit": "kg"
+        },
+        {
+          "name": "greenMustard",
+          "qty": 0.875,
+          "unit": "kg"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": "5",
+          "unit": "kg"
+        },
+        {
+          "name": "salt",
+          "qty": 0.13,
+          "unit": "kg"
+        },
+        {
+          "name": "water",
+          "qty": 0.8799999999999999,
+          "unit": "L"
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.05499999999999999,
+          "unit": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.05499999999999999,
+          "unit": "kg"
+        },
+        {
+          "name": "raddish",
+          "qty": 0.8799999999999999,
+          "unit": "kg"
+        },
+        {
+          "name": "carrot",
+          "qty": 0.43999999999999995,
+          "unit": "kg"
+        },
+        {
+          "name": "greenOnion",
+          "qty": 14.7,
+          "unit": "sticks"
+        },
+        {
+          "name": "garlic",
+          "qty": 44,
+          "unit": "gloves"
+        },
+        {
+          "name": "ginger",
+          "qty": 0.02,
+          "unit": "kg"
+        },
+        {
+          "name": "onion",
+          "qty": 1.7999999999999998,
+          "unit": "piece"
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.21999999999999997,
+          "unit": "L"
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.10999999999999999,
+          "unit": "kg"
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.5,
+          "unit": "kg"
+        },
+        {
+          "name": "redMustard",
+          "qty": 3.5,
+          "unit": "kg"
+        },
+        {
+          "name": "greenMustard",
+          "qty": 2.5,
+          "unit": "kg"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "",
+      "imageUrl": "",
       "createdAt": "",
       "userId": 1,
       "ingredients": [
@@ -440,7 +912,177 @@
           "unit": "kg"
         }
       ],
-      "id": 4
+      "id": 9
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "recipeBasedOnId": 1,
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "salt",
+          "qty": 0.026,
+          "unit": "kg"
+        },
+        {
+          "name": "water",
+          "qty": 0.176,
+          "unit": "L"
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.011,
+          "unit": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.011,
+          "unit": "kg"
+        },
+        {
+          "name": "raddish",
+          "qty": 0.176,
+          "unit": "kg"
+        },
+        {
+          "name": "carrot",
+          "qty": 0.088,
+          "unit": "kg"
+        },
+        {
+          "name": "greenOnion",
+          "qty": 2.94,
+          "unit": "sticks"
+        },
+        {
+          "name": "garlic",
+          "qty": 8.8,
+          "unit": "cloves"
+        },
+        {
+          "name": "ginger",
+          "qty": 0.004,
+          "unit": "kg"
+        },
+        {
+          "name": "onion",
+          "qty": 0.36,
+          "unit": "piece"
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.044,
+          "unit": "L"
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.022,
+          "unit": "kg"
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.1,
+          "unit": "kg"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "Ronan First Kimchi",
+      "imageUrl": "https://i.redd.it/3yko50psbuyz.jpg",
+      "createdAt": "2025-03-25",
+      "recipeBasedOnId": 3,
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": "5",
+          "unit": "kg"
+        },
+        {
+          "name": "salt",
+          "qty": 0.13,
+          "unit": "kg"
+        },
+        {
+          "name": "water",
+          "qty": 0.8799999999999999,
+          "unit": "L"
+        },
+        {
+          "name": "riceflour",
+          "qty": 0.05499999999999999,
+          "unit": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.05499999999999999,
+          "unit": "kg"
+        },
+        {
+          "name": "raddish",
+          "qty": 0.8799999999999999,
+          "unit": "kg"
+        },
+        {
+          "name": "carrot",
+          "qty": 0.43999999999999995,
+          "unit": "kg"
+        },
+        {
+          "name": "greenOnion",
+          "qty": 14.7,
+          "unit": "sticks"
+        },
+        {
+          "name": "garlic",
+          "qty": 44,
+          "unit": "gloves"
+        },
+        {
+          "name": "ginger",
+          "qty": 0.02,
+          "unit": "kg"
+        },
+        {
+          "name": "onion",
+          "qty": 1.7999999999999998,
+          "unit": "piece"
+        },
+        {
+          "name": "fishSauce",
+          "qty": 0.21999999999999997,
+          "unit": "L"
+        },
+        {
+          "name": "saltedShrimp",
+          "qty": 0.10999999999999999,
+          "unit": "kg"
+        },
+        {
+          "name": "hotPepperFlakes",
+          "qty": 0.5,
+          "unit": "kg"
+        },
+        {
+          "name": "redMustard",
+          "qty": 3.5,
+          "unit": "kg"
+        },
+        {
+          "name": "greenMustard",
+          "qty": 2.5,
+          "unit": "kg"
+        }
+      ],
+      "id": 11
     }
   ],
   "notes": [
@@ -483,6 +1125,22 @@
       "date": "dd-mm-yyyy",
       "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/colorful-veggies_kimchi-paste-590x331.jpg",
       "content": " ....blablabla"
+    },
+    {
+      "batchId": 11,
+      "userId": 1,
+      "date": "2025-03-25",
+      "imageUrl": "https://i.redd.it/3yko50psbuyz.jpg",
+      "content": "Some extra carrots added",
+      "id": 6
+    },
+    {
+      "batchId": "11",
+      "userId": 1,
+      "date": "2025-03-27",
+      "imageUrl": "https://honestcooking.com/wp-content/uploads/2016/04/How-to-Make-Homemade-Kimchi.jpeg",
+      "content": "Changing pots for better fermentation",
+      "id": 7
     }
   ]
 }
