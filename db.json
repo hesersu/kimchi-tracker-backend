@@ -281,58 +281,8 @@
   ],
   "batches": [
     {
-      "id": 1,
-      "name": "name",
-      "imageUrl": "...",
-      "createdAt": "dd-mm-yyyy",
-      "userId": 1,
-      "ingredients": {
-        "cabbage": 1,
-        "salt": 0.026,
-        "water": 0.176,
-        "riceflour": 0.011,
-        "sugar": 0.011,
-        "raddish": 0.176,
-        "carrot": 0.088,
-        "greenOnion": 2.94,
-        "garlic": 8.8,
-        "ginger": 0.004,
-        "onion": 0.36,
-        "fishSauce": 0.044,
-        "saltedShrimp": 0.022,
-        "hotPepperFlakes": 0.1,
-        "garlicModifier": 1,
-        "pepperModifier": 1
-      }
-    },
-    {
-      "id": 2,
-      "name": "nameeee",
-      "imageUrl": "...",
-      "createdAt": "dd-mm-yyyy",
-      "userId": 1,
-      "ingredients": {
-        "cabbage": 1,
-        "salt": 0.026,
-        "water": 0.176,
-        "riceflour": 0.011,
-        "sugar": 0.011,
-        "raddish": 0.176,
-        "carrot": 0.088,
-        "greenOnion": 2.94,
-        "garlic": 8.8,
-        "ginger": 0.004,
-        "onion": 0.36,
-        "fishSauce": 0.044,
-        "saltedShrimp": 0.022,
-        "hotPepperFlakes": 0.1,
-        "garlicModifier": 1,
-        "pepperModifier": 1
-      }
-    },
-    {
-      "name": "",
-      "imageUrl": "",
+      "name": "Test Batch 3",
+      "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/whole-cabbage-kimchi-590x466.jpg",
       "createdAt": "",
       "userId": 1,
       "ingredients": [
@@ -404,8 +354,8 @@
       "id": 3
     },
     {
-      "name": "",
-      "imageUrl": "",
+      "name": "Test Batch 4",
+      "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/whole-cabbage-kimchi-590x466.jpg",
       "createdAt": "",
       "userId": 1,
       "ingredients": [
@@ -496,23 +446,42 @@
   "notes": [
     {
       "id": 1,
-      "batchId": 1,
+      "batchId": 4,
       "userId": 1,
       "date": "dd-mm-yyyy",
+      "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/colorful-veggies_kimchi-paste-590x331.jpg",
       "content": " ...."
     },
     {
       "id": 2,
-      "batchId": 2,
+      "batchId": 3,
       "userId": 1,
       "date": "dd-mm-yyyy",
+      "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/colorful-veggies_kimchi-paste-590x331.jpg",
       "content": " ....blablabla"
     },
     {
       "id": 3,
-      "batchId": 2,
+      "batchId": 4,
       "userId": 1,
       "date": "dd-mm-yyyy",
+      "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/colorful-veggies_kimchi-paste-590x331.jpg",
+      "content": " ....blablabla"
+    },
+    {
+      "id": 4,
+      "batchId": 3,
+      "userId": 1,
+      "date": "dd-mm-yyyy",
+      "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/colorful-veggies_kimchi-paste-590x331.jpg",
+      "content": " ....blablabla"
+    },
+    {
+      "id": 5,
+      "batchId": 4,
+      "userId": 1,
+      "date": "dd-mm-yyyy",
+      "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/colorful-veggies_kimchi-paste-590x331.jpg",
       "content": " ....blablabla"
     }
   ]
