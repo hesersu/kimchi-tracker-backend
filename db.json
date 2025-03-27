@@ -14,7 +14,7 @@
       "author": "Maangchi",
       "ingredients": [
         {
-          "name": "cabbage",
+          "name": "Cabbage",
           "qty": 1,
           "unit": "kg"
         },
@@ -106,7 +106,7 @@
       "author": "Paik Jong-Won",
       "ingredients": [
         {
-          "name": "cabbage",
+          "name": "Cabbage",
           "qty": 1,
           "unit": "kg"
         },
@@ -234,7 +234,7 @@
       "userId": 1,
       "ingredients": [
         {
-          "name": "cabbage",
+          "name": "Cabbage",
           "qty": "2",
           "unit": "kg"
         },
@@ -315,7 +315,7 @@
       "userId": 1,
       "ingredients": [
         {
-          "name": "cabbage",
+          "name": "Cabbage",
           "qty": "5",
           "unit": "kg"
         },
@@ -396,7 +396,7 @@
       "userId": 1,
       "ingredients": [
         {
-          "name": "cabbage",
+          "name": "Cabbage",
           "qty": 1,
           "unit": "kg"
         },
@@ -507,7 +507,7 @@
       "userId": 1,
       "ingredients": [
         {
-          "name": "cabbage",
+          "name": "Cabbage",
           "qty": "10",
           "unit": "kg"
         },
@@ -618,7 +618,7 @@
       "userId": 1,
       "ingredients": [
         {
-          "name": "cabbage",
+          "name": "Cabbage",
           "qty": "1.2",
           "unit": "kg"
         },
@@ -719,6 +719,356 @@
         }
       ],
       "id": 5
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "recipeBasedOnId": 1,
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "Cabbage",
+          "qty": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "Salt",
+          "qty": 26,
+          "unit": "g"
+        },
+        {
+          "name": "Water",
+          "qty": 176,
+          "unit": "ml"
+        },
+        {
+          "name": "Riceflour",
+          "qty": 11,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "qty": 11,
+          "unit": "g"
+        },
+        {
+          "name": "Daikon Raddish",
+          "qty": 176,
+          "unit": "g"
+        },
+        {
+          "name": "Carrots",
+          "qty": 88,
+          "unit": "g"
+        },
+        {
+          "name": "Green Onion",
+          "qty": 2.94,
+          "unit": "sticks"
+        },
+        {
+          "name": "Garlic",
+          "qty": 8.8,
+          "unit": "cloves"
+        },
+        {
+          "name": "Ginger",
+          "qty": 4,
+          "unit": "g"
+        },
+        {
+          "name": "Onions",
+          "qty": 0.36,
+          "unit": "pieces"
+        },
+        {
+          "name": "Fish Sauce",
+          "qty": 44,
+          "unit": "ml"
+        },
+        {
+          "name": "Salted Shrimp",
+          "qty": 22,
+          "unit": "g"
+        },
+        {
+          "name": "Hot Pepper Flakes",
+          "qty": 100,
+          "unit": "g"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "End of march Kimchi",
+      "imageUrl": "https://img.taste.com.au/DFN-lC2o/taste/2015/04/kimchi-recipe-200119-1.png",
+      "createdAt": "2025-03-27",
+      "recipeBasedOnId": 1,
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "Cabbage",
+          "qty": "1.6",
+          "unit": "kg"
+        },
+        {
+          "name": "Salt",
+          "qty": 41.6,
+          "unit": "g"
+        },
+        {
+          "name": "Water",
+          "qty": 281.6,
+          "unit": "ml"
+        },
+        {
+          "name": "Riceflour",
+          "qty": 17.6,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "qty": 17.6,
+          "unit": "g"
+        },
+        {
+          "name": "Daikon Raddish",
+          "qty": 281.6,
+          "unit": "g"
+        },
+        {
+          "name": "Carrots",
+          "qty": 140.8,
+          "unit": "g"
+        },
+        {
+          "name": "Green Onion",
+          "qty": 4.7,
+          "unit": "sticks"
+        },
+        {
+          "name": "Garlic",
+          "qty": 14.1,
+          "unit": "cloves"
+        },
+        {
+          "name": "Ginger",
+          "qty": 6.4,
+          "unit": "g"
+        },
+        {
+          "name": "Onions",
+          "qty": 0.6,
+          "unit": "pieces"
+        },
+        {
+          "name": "Fish Sauce",
+          "qty": 70.4,
+          "unit": "ml"
+        },
+        {
+          "name": "Salted Shrimp",
+          "qty": 35.2,
+          "unit": "g"
+        },
+        {
+          "name": "Hot Pepper Flakes",
+          "qty": 160,
+          "unit": "g"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "recipeBasedOnId": 3,
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "Cabbage",
+          "qty": "1.3",
+          "unit": "kg"
+        },
+        {
+          "name": "Salt",
+          "qty": 33.8,
+          "unit": "g"
+        },
+        {
+          "name": "Water",
+          "qty": 162.5,
+          "unit": "ml"
+        },
+        {
+          "name": "Rice Flour",
+          "qty": 10.4,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "qty": 7.8,
+          "unit": "g"
+        },
+        {
+          "name": "Daikon Raddish",
+          "qty": 162.5,
+          "unit": "g"
+        },
+        {
+          "name": "Carrots",
+          "qty": 114.4,
+          "unit": "g"
+        },
+        {
+          "name": "Green Onions",
+          "qty": 4.9,
+          "unit": "sticks"
+        },
+        {
+          "name": "Garlic",
+          "qty": 10.4,
+          "unit": "cloves"
+        },
+        {
+          "name": "Ginger",
+          "qty": 2.6,
+          "unit": "g"
+        },
+        {
+          "name": "Fish Sauce",
+          "qty": 52,
+          "unit": "ml"
+        },
+        {
+          "name": "Salted Shrimp",
+          "qty": 37.7,
+          "unit": "g"
+        },
+        {
+          "name": "Hot Pepper Flakes",
+          "qty": 80.6,
+          "unit": "g"
+        },
+        {
+          "name": "Oysters",
+          "qty": 10.4,
+          "unit": "g"
+        },
+        {
+          "name": "Beef Stock",
+          "qty": 2.6,
+          "unit": "g"
+        },
+        {
+          "name": "MSG",
+          "qty": 2.6,
+          "unit": "g"
+        },
+        {
+          "name": "Red Mustard",
+          "qty": 52,
+          "unit": "g"
+        },
+        {
+          "name": "Green Mustard",
+          "qty": 78,
+          "unit": "g"
+        },
+        {
+          "name": "Raddish Leaves",
+          "qty": 0.7,
+          "unit": "piece"
+        },
+        {
+          "name": "Water Parsley",
+          "qty": 20.8,
+          "unit": "g"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "",
+      "imageUrl": "",
+      "createdAt": "",
+      "recipeBasedOnId": 1,
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "Cabbage",
+          "qty": "1.1",
+          "unit": "kg"
+        },
+        {
+          "name": "Salt",
+          "qty": 28.6,
+          "unit": "g"
+        },
+        {
+          "name": "Water",
+          "qty": 193.6,
+          "unit": "ml"
+        },
+        {
+          "name": "Riceflour",
+          "qty": 12.1,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "qty": 12.1,
+          "unit": "g"
+        },
+        {
+          "name": "Daikon Raddish",
+          "qty": 193.6,
+          "unit": "g"
+        },
+        {
+          "name": "Carrots",
+          "qty": 96.8,
+          "unit": "g"
+        },
+        {
+          "name": "Green Onion",
+          "qty": 3.2,
+          "unit": "sticks"
+        },
+        {
+          "name": "Garlic",
+          "qty": 9.7,
+          "unit": "cloves"
+        },
+        {
+          "name": "Ginger",
+          "qty": 4.4,
+          "unit": "g"
+        },
+        {
+          "name": "Onions",
+          "qty": 0.4,
+          "unit": "pieces"
+        },
+        {
+          "name": "Fish Sauce",
+          "qty": 48.4,
+          "unit": "ml"
+        },
+        {
+          "name": "Salted Shrimp",
+          "qty": 24.2,
+          "unit": "g"
+        },
+        {
+          "name": "Hot Pepper Flakes",
+          "qty": 110,
+          "unit": "g"
+        }
+      ],
+      "id": 9
     }
   ],
   "notes": [
@@ -761,6 +1111,14 @@
       "imageUrl": "https://i.pinimg.com/474x/b4/11/16/b4111653eb870f381540d2f046c813be.jpg",
       "content": "I change cabbages by spring onions",
       "id": 5
+    },
+    {
+      "batchId": 7,
+      "userId": 1,
+      "date": "2025-03-27",
+      "imageUrl": "https://img.taste.com.au/DFN-lC2o/taste/2015/04/kimchi-recipe-200119-1.png",
+      "content": "Awesome it's my first kimchi",
+      "id": 6
     }
   ]
 }
