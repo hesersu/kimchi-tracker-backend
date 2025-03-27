@@ -230,6 +230,7 @@
       "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/whole-cabbage-kimchi.jpg",
       "createdAt": "2025-03-26",
       "recipeBasedOnId": 1,
+      "chef": "Maangchi",
       "userId": 1,
       "ingredients": [
         {
@@ -310,6 +311,7 @@
       "imageUrl": "https://www.maangchi.com/wp-content/uploads/2014/06/whole-cabbage-kimchi.jpg",
       "createdAt": "2025-03-26",
       "recipeBasedOnId": 1,
+      "chef": "Maangchi",
       "userId": 1,
       "ingredients": [
         {
@@ -390,6 +392,7 @@
       "imageUrl": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/78090aa8b5a8400f6119c3ad055e1c361.jpg",
       "createdAt": "2025-03-26",
       "recipeBasedOnId": 3,
+      "chef": "Paik Jong-Won",
       "userId": 1,
       "ingredients": [
         {
@@ -500,6 +503,7 @@
       "imageUrl": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/78090aa8b5a8400f6119c3ad055e1c361.jpg",
       "createdAt": "2025-03-26",
       "recipeBasedOnId": 3,
+      "chef": "Paik Jong-Won",
       "userId": 1,
       "ingredients": [
         {
@@ -604,6 +608,117 @@
         }
       ],
       "id": 4
+    },
+    {
+      "name": "Srping Kimchi",
+      "imageUrl": "https://i.pinimg.com/474x/b4/11/16/b4111653eb870f381540d2f046c813be.jpg",
+      "createdAt": "2025-03-27",
+      "recipeBasedOnId": 3,
+      "chef": "Paik Jong-Won",
+      "userId": 1,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "qty": "1.2",
+          "unit": "kg"
+        },
+        {
+          "name": "Salt",
+          "qty": 31.2,
+          "unit": "g"
+        },
+        {
+          "name": "Water",
+          "qty": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Rice Flour",
+          "qty": 9.6,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "qty": 7.2,
+          "unit": "g"
+        },
+        {
+          "name": "Daikon Raddish",
+          "qty": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Carrots",
+          "qty": 105.6,
+          "unit": "g"
+        },
+        {
+          "name": "Green Onions",
+          "qty": 4.6,
+          "unit": "sticks"
+        },
+        {
+          "name": "Garlic",
+          "qty": 9.6,
+          "unit": "cloves"
+        },
+        {
+          "name": "Ginger",
+          "qty": 2.4,
+          "unit": "g"
+        },
+        {
+          "name": "Fish Sauce",
+          "qty": 48,
+          "unit": "ml"
+        },
+        {
+          "name": "Salted Shrimp",
+          "qty": 34.8,
+          "unit": "g"
+        },
+        {
+          "name": "Hot Pepper Flakes",
+          "qty": 74.4,
+          "unit": "g"
+        },
+        {
+          "name": "Oysters",
+          "qty": 9.6,
+          "unit": "g"
+        },
+        {
+          "name": "Beef Stock",
+          "qty": 2.4,
+          "unit": "g"
+        },
+        {
+          "name": "MSG",
+          "qty": 2.4,
+          "unit": "g"
+        },
+        {
+          "name": "Red Mustard",
+          "qty": 48,
+          "unit": "g"
+        },
+        {
+          "name": "Green Mustard",
+          "qty": 72,
+          "unit": "g"
+        },
+        {
+          "name": "Raddish Leaves",
+          "qty": 0.6,
+          "unit": "piece"
+        },
+        {
+          "name": "Water Parsley",
+          "qty": 19.2,
+          "unit": "g"
+        }
+      ],
+      "id": 5
     }
   ],
   "notes": [
@@ -638,6 +753,14 @@
       "imageUrl": "https://recipe1.ezmember.co.kr/cache/recipe/2015/11/30/78090aa8b5a8400f6119c3ad055e1c361.jpg",
       "content": "This is my second Paik Kimchi",
       "id": 4
+    },
+    {
+      "batchId": 5,
+      "userId": 1,
+      "date": "2025-03-27",
+      "imageUrl": "https://i.pinimg.com/474x/b4/11/16/b4111653eb870f381540d2f046c813be.jpg",
+      "content": "I change cabbages by spring onions",
+      "id": 5
     }
   ]
 }
